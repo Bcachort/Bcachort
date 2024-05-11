@@ -1,6 +1,6 @@
 # Repositorio inicial de Bernardo Cachinero Ortega
 
-![Imagen de Portada](Img perfil GitHub/perro.jpg)
+![Imagen de Portada](img/perro.jpg)
 
 ## Descripción
 
