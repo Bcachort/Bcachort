@@ -1,7 +1,6 @@
 # Repositorio inicial de Bernardo Cachinero Ortega
 
-![Imagen de Portada](![image](https://github.com/Bcachort/Bcachort/assets/169293145/ed1adc23-350e-454f-91a7-61f17dab7009)
-)
+![Imagen de Portada](https://github.com/Bcachort/Bcachort/assets/169293145/ed1adc23-350e-454f-91a7-61f17dab7009)
 
 ## Descripción
 
